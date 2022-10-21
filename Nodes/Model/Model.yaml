@@ -1,2 +1,15 @@
 Name: Model
 Type: FolderType
+Children:
+- Name: Object1
+  Type: BaseObjectType
+  Children:
+  - Name: Alias1
+    Type: Alias
+    DataType: NodeId
+    Value: {"IdType":2,"Id":"e6b01cdcae3a6f4a370831f4855817a5","Namespace":7}
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"Id":10,"Namespace":3}
