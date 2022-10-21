@@ -1,15 +1,19 @@
 Name: Model
+Id: g=9f6c580b4432b41c55664f2b4ca92daf
 Type: FolderType
 Children:
 - Name: Object1
+  Id: g=8f4c0132da9855222522cf4b671f8dad
   Type: BaseObjectType
   Children:
   - Name: Alias1
+    Id: g=ce3d7532789c4100b8567a67bcbb7eb3
     Type: Alias
     DataType: NodeId
     Value: {"IdType":2,"Id":"e6b01cdcae3a6f4a370831f4855817a5","Namespace":7}
     Children:
     - Name: Kind
+      Id: g=cdf2ff3d4686130b619baf7aad41bf44
       Type: PropertyType
       DataType: NodeId
       Value: {"Id":10,"Namespace":3}
